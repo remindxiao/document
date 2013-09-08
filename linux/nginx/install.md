@@ -1,4 +1,4 @@
-Nginx 安装指南
+![](http://wiki.nginx.org/local/nginx-logo.png)Nginx 安装指南
 =============
 
 ------------------------
@@ -380,7 +380,7 @@ Nginx 安装指南
 
 ## 参考
 
-* [[Getting Started with Nginx](http://wiki.nginx.org/GettingStarted)]
-* [[FullExample](http://wiki.nginx.org/FullExample)]
-* [[List of core configuration directives](http://wiki.nginx.org/Configuration)]
-* [[Red Hat Nginx Init Script](http://wiki.nginx.org/RedHatNginxInitScript)]
+* [Getting Started with Nginx](http://wiki.nginx.org/GettingStarted)
+* [FullExample](http://wiki.nginx.org/FullExample)
+* [List of core configuration directives](http://wiki.nginx.org/Configuration)
+* [Red Hat Nginx Init Script](http://wiki.nginx.org/RedHatNginxInitScript)
